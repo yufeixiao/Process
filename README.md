@@ -1,2 +1,3 @@
-1. code -- ipynb file
-2. documentation, demo -- pdf file
+1. code -- py file
+2. demo -- ipynb file
+3. report -- pdf file
